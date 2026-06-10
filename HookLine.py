@@ -148,7 +148,7 @@ def send_message():
         choice = input(Colors.BLURPLE + "Выберите режим: " + Colors.RESET).strip()
 
         if not choice:
-            return  # Возврат в главное меню
+            return
 
         if choice == "1":
             send_single_message(webhook_url)
