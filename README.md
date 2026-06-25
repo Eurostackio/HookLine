@@ -17,8 +17,6 @@ cd HookLine
 pip install -r requirements.txt
 
 # 3. Быстрый старт
-Для запуска утилиты выполните главный скрипт:
-python HookLine.py
 
 Для запуска утилиты выполните главный скрипт: `python HookLine.py`
 
